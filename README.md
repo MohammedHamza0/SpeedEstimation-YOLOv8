@@ -48,7 +48,9 @@ To install the required libraries, use pip.
 ## Code Explanation
 
 YOLO Model Loading: Loads a pre-trained YOLO model for vehicle detection.
+
 Speed Estimator Initialization: Initializes the speed estimator with the model classes and predefined line points.
+
 Vehicle Tracking: Tracks vehicles across video frames and updates the counts based on their movement direction.
 Drawing Functions: Includes functions to draw bounding boxes and text on the video frames.
 
